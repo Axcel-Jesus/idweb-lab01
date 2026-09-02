@@ -4,3 +4,8 @@ body{
 h1{
     color: rgb(75, 57, 35);
 }
+img{
+    border-radius: 10px;
+    border-color: black;
+    width: 200px;
+}
